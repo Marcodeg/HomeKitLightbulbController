@@ -1,5 +1,8 @@
 # HomeKit Lightbulb Controller
 
+![Cocoapods platforms](https://badgen.net/badge/platform/iOS/:color?icon=apple)
+![Cocoapods platforms](https://badgen.net/badge/language/swift/orange?icon=swift)
+
 This framework aims to facilitate the use of bulbs through HomeKit.
 
 __Why this framework?__
