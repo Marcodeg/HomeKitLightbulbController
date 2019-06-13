@@ -12,8 +12,10 @@ __What can you do with this framework:__
 
 - Color Animation *
 - Intensity Animation
+- Brithness Animation
 - Color Change
 - Intensity Change
+- Brightness Change
 - Switching on/off
 - Control of services **
 
