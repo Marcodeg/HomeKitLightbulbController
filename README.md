@@ -23,7 +23,7 @@ __What can you do with this framework:__
 - Intensity Change
 - Brightness Change
 - Switching on/off
-- Control of services **
+- Services Check **
 
 
 _* A fluid animation that goes from one color to another recreating a gradient._
