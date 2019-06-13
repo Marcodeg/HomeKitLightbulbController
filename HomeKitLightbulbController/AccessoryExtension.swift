@@ -1,9 +1,9 @@
 //
 //  ServiceExtension.swift
-//  EfficientRats
+//  HomeKitLightbulbController
 //
-//  Created by Marco Del Giudice on 07/04/2019.
-//  Copyright © 2019 Denny Caruso. All rights reserved.
+//  Created by Marco Del Giudice on 05/04/2019.
+//  Copyright © 2019 Marco Del Giudice. All rights reserved.
 //
 
 import Foundation
