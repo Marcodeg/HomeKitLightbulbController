@@ -1,4 +1,4 @@
-# HomeKitLightbulbController
+# HomeKit Lightbulb Controller
 
 This framework aims to facilitate the use of bulbs through HomeKit.
 
